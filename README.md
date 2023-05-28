@@ -2,7 +2,7 @@
 
 Check the deploy [`preview`](https://maria-nftcardgame.netlify.app/)
 
-![GIF]()
+
 
 ## `Project purpose`
 
