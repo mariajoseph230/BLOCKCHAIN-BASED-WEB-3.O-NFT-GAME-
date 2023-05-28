@@ -2,7 +2,7 @@
 
 Check the deploy [`preview`](https://maria-nftcardgame.netlify.app/)
 
-![GIF](https://github.com/Wtheodoro/nft-card-game/blob/main/client/public/gif/avaxgods.gif)
+![GIF]()
 
 ## `Project purpose`
 
